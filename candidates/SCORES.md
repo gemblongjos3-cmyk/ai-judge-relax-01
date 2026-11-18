@@ -53,3 +53,9 @@ Teks C masuk ke `main.ts`. Alasan: skor internal tertinggi (8.8/10), menang
 pairwise atas A dan B, dan satu-satunya kandidat yang berbicara langsung kepada
 pembacanya — juri — dengan citra yang konkret dan segar, tanpa satu pun perintah
 untuk rileks.
+
+Polish pass (18 Nov, sebelum submit): satu kalimat panjang dipecah —
+"Here is a small room for you, and nobody is asking anything of it." menjadi
+dua kalimat pendek ("Here is a small room for you." / "Nobody is asking
+anything of it.") agar ritme bacanya lebih lambat. Teks akhir di `main.ts`
+= 611 karakter; `candidates/C.txt` sudah diperbarui mengikuti polish ini.
